@@ -2,7 +2,7 @@
 
 ## installation
 
-- npm i TYPESCRIPT
+- npm i typescript
 - To check the install run
   tsc -v
 
